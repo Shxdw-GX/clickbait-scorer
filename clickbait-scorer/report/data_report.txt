@@ -1,0 +1,46 @@
+DATA INSPECTION - FOYSAL
+
+Task: classify headlines as clickbait (1) or non-clickbait (0).
+
+train1.csv
+Rows: 32,000
+Columns: headline, clickbait
+Original label counts: {'1': 15999, '0': 16001}
+Label mapping: {'0': 0, '1': 1}
+Missing headlines: 0
+Missing labels: 0
+Unexpected labels: 0
+Repeated normalized headline rows beyond the first: 1
+
+train2.csv
+Rows: 21,029
+Columns: label, title
+Original label counts: {'news': 16738, 'clickbait': 4291}
+Label mapping: {'news': 0, 'clickbait': 1}
+Missing headlines: 0
+Missing labels: 0
+Unexpected labels: 0
+Repeated normalized headline rows beyond the first: 142
+
+Combined rows: 53,029
+Clickbait headlines (1): 20,290
+Non-clickbait headlines (0): 32,739
+Duplicate headline groups: 87
+Groups appearing in both datasets: 2
+Groups with conflicting labels: 25
+
+INSPECTION NOTES
+Original source labels were retained. No new manual labels were created.
+train2 contains title and label only
+Duplicate checks normalize Unicode, capitalization and spacing.
+Similar headlines with different wording are not detected by this check.
+record_number counts data records starting at 1, excluding the header.
+Rows with the same group_id belong to the same duplicate headline group.
+
+HANDOFF TO MOHAMMED
+Review duplicate_review.csv and document how conflicting labels are handled.
+Prevent duplicate headlines from appearing in different dataset splits.
+Provide the same final splits to the baseline and BERT models.
+
+DATASET SOURCE
+https://www.kaggle.com/datasets/vikassingh1996/news-clickbait-dataset

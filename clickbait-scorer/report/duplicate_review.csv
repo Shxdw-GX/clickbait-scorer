@@ -1,0 +1,233 @@
+source_file,record_number,headline,original_label,label,group_id,cross_source,conflicting_labels
+train2.csv,9021,'Hollywood' sign changed to 'Hollyweed' in new year prank,news,0,1,False,False
+train2.csv,10802,'Hollywood' sign changed to 'Hollyweed' in new year prank,news,0,1,False,False
+train2.csv,1537,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,1813,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,3441,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,5191,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,7531,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,10945,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,14660,10 things you need to know before the opening bell,clickbait,1,2,False,True
+train2.csv,19125,10 things you need to know before the opening bell,news,0,2,False,True
+train2.csv,1726,14 Things We Learned From Caitlyn Jenner’s ‘20/20’ Interview [Video],clickbait,1,3,False,True
+train2.csv,7057,14 Things We Learned From Caitlyn Jenner’s ‘20/20’ Interview [Video],news,0,3,False,True
+train2.csv,1591,17 Limited-Edition Beauty Products You Need To Buy ASAP,clickbait,1,4,False,False
+train2.csv,5747,17 Limited-Edition Beauty Products You Need To Buy ASAP,clickbait,1,4,False,False
+train2.csv,3662,21 Funny Texts That You Won’t Be Able To Get Through Without Laughing,clickbait,1,5,False,False
+train2.csv,6640,21 Funny Texts That You Won’t Be Able To Get Through Without Laughing,clickbait,1,5,False,False
+train1.csv,5121,21 Of The Most Powerful Photos Of This Week,1,1,6,True,False
+train2.csv,3492,21 Of The Most Powerful Photos Of This Week,clickbait,1,6,True,False
+train2.csv,5840,"25 jobs where you can earn more than $100,000 a year",clickbait,1,7,False,False
+train2.csv,11028,"25 jobs where you can earn more than $100,000 a year",clickbait,1,7,False,False
+train2.csv,5411,7 Conservative Classics Every American Should Read,clickbait,1,8,False,True
+train2.csv,18368,7 Conservative Classics Every American Should Read,news,0,8,False,True
+train2.csv,903,"A year on, few answers from probe into Prince's death ",news,0,9,False,True
+train2.csv,19479,"A Year On, Few Answers From Probe Into Prince's Death",clickbait,1,9,False,True
+train2.csv,98,All The Best Deals On The Internet Today,clickbait,1,10,False,False
+train2.csv,1543,All The Best Deals On The Internet Today,clickbait,1,10,False,False
+train2.csv,2052,An Inside View From Nine Months On The Campaign Trail With President Trump,clickbait,1,11,False,False
+train2.csv,5676,An Inside View From Nine Months On The Campaign Trail With President Trump,clickbait,1,11,False,False
+train2.csv,7073,Army Leaker Chelsea Manning on Obama’s ‘Short List’ for Commutation,news,0,12,False,False
+train2.csv,10469,Army Leaker Chelsea Manning on Obama’s ‘Short List’ for Commutation,news,0,12,False,False
+train2.csv,3991,"As Trump Makes Threats, Iran Makes Friends",clickbait,1,13,False,True
+train2.csv,8687,"As Trump Makes Threats, Iran Makes Friends",news,0,13,False,True
+train2.csv,9589,"Australia 'running behind' in obesity prevention policy, health specialists say",news,0,14,False,False
+train2.csv,13743,"Australia 'running behind' in obesity prevention policy, health specialists say",news,0,14,False,False
+train2.csv,902,BACK STORY ,news,0,15,False,False
+train2.csv,4514,BACK STORY ,news,0,15,False,False
+train2.csv,12333,BACK STORY ,news,0,15,False,False
+train2.csv,11265,"Bannon, Kushner reportedly meet, 'smooth' differences, amid reports of feud ",news,0,16,False,False
+train2.csv,19565,"Bannon, Kushner reportedly meet, 'smooth' differences, amid reports of feud ",news,0,16,False,False
+train2.csv,711,BBC Trending,clickbait,1,17,False,True
+train2.csv,849,BBC Trending,clickbait,1,17,False,True
+train2.csv,5839,BBC Trending,news,0,17,False,True
+train2.csv,6032,BBC Trending,clickbait,1,17,False,True
+train2.csv,6247,BBC Trending,clickbait,1,17,False,True
+train2.csv,7365,BBC Trending,news,0,17,False,True
+train2.csv,8801,BBC Trending,clickbait,1,17,False,True
+train2.csv,8972,BBC Trending,clickbait,1,17,False,True
+train2.csv,9618,BBC Trending,news,0,17,False,True
+train2.csv,11131,BBC Trending,clickbait,1,17,False,True
+train2.csv,3433,Big Mac Makeover Helps McDonald's Overcome Restaurant Slump,news,0,18,False,False
+train2.csv,10754,Big Mac Makeover Helps McDonald's Overcome Restaurant Slump,news,0,18,False,False
+train2.csv,5945,Bloomberg Benchmark   ,news,0,19,False,False
+train2.csv,19347,Bloomberg Benchmark   ,news,0,19,False,False
+train2.csv,8666,Bodies of Chapecoense players killed in plane crash returned to Brazil,news,0,20,False,False
+train2.csv,16490,Bodies of Chapecoense players killed in plane crash returned to Brazil,news,0,20,False,False
+train2.csv,10574,Bruno Mars Ties Justin Timberlake for Most Pop Songs No. 1s Among Male Soloists,news,0,21,False,False
+train2.csv,13932,Bruno Mars Ties Justin Timberlake for Most Pop Songs No. 1s Among Male Soloists,news,0,21,False,False
+train2.csv,5164,Clemson QB Deshaun Watson: 'I'm the best player in the country',news,0,22,False,False
+train2.csv,9076,Clemson QB Deshaun Watson: 'I'm the best player in the country',news,0,22,False,False
+train2.csv,2390,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,5887,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,6925,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,8167,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,8319,CNNVerifizierter Account,clickbait,1,23,False,True
+train2.csv,8515,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,9106,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,12486,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,13359,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,14664,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,14776,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,19858,CNNVerifizierter Account,news,0,23,False,True
+train2.csv,14763,David Fahrenthold tells the behind-the-scenes story of his year covering Trump,news,0,24,False,False
+train2.csv,18114,David Fahrenthold tells the behind-the-scenes story of his year covering Trump,news,0,24,False,False
+train2.csv,505,David Pogue tested 40 Bluetooth earbuds to find the best of the best,news,0,25,False,False
+train2.csv,2654,David Pogue tested 40 Bluetooth earbuds to find the best of the best,news,0,25,False,False
+train2.csv,3177,Decrypted   ,clickbait,1,26,False,False
+train2.csv,11367,Decrypted   ,clickbait,1,26,False,False
+train2.csv,9785,"Despite setbacks and job cuts, Google is promising a big update in its race against Amazonâs delivery drones",news,0,27,False,False
+train2.csv,10665,"Despite setbacks and job cuts, Google is promising a big update in its race against Amazonâs delivery drones",news,0,27,False,False
+train2.csv,8658,Do you know this man? Dine-and-dash dater strikes again in Los Angeles,clickbait,1,28,False,True
+train2.csv,10966,Do you know this man? Dine-and-dash dater strikes again in Los Angeles,news,0,28,False,True
+train2.csv,1941,Doctor Wait Times Soar 30% In Major U.S. Cities,news,0,29,False,False
+train2.csv,9456,Doctor Wait Times Soar 30% In Major U.S. Cities,news,0,29,False,False
+train2.csv,3615,Donald Trump doesn't read books â Here are other successful people who don't read very much,clickbait,1,30,False,False
+train2.csv,10097,Donald Trump doesn't read books â Here are other successful people who don't read very much,clickbait,1,30,False,False
+train2.csv,12610,Egypt Palm Sunday Church Blasts Kill at Least 38,news,0,31,False,False
+train2.csv,14442,Egypt Palm Sunday Church Blasts Kill at Least 38,news,0,31,False,False
+train2.csv,498,Facebook,news,0,32,False,False
+train2.csv,3494,Facebook,news,0,32,False,False
+train2.csv,4042,Facebook,news,0,32,False,False
+train2.csv,11432,Fearless Florida diver pulls metal hook from shark's belly ,news,0,33,False,False
+train2.csv,13398,Fearless Florida diver pulls metal hook from shark's belly ,news,0,33,False,False
+train2.csv,12667,Gift Guide: 10 hottest toys under $50,clickbait,1,34,False,True
+train2.csv,20087,Gift Guide: 10 hottest toys under $50,news,0,34,False,True
+train2.csv,5580,Hate Hoax: Pro-Trump Students Cleared of Harassment Claims,clickbait,1,35,False,True
+train2.csv,15967,Hate Hoax: Pro-Trump Students Cleared of Harassment Claims,news,0,35,False,True
+train2.csv,563,Here's how much millionaires would save under GOP Obamacare repeal bill,clickbait,1,36,False,True
+train2.csv,7147,Here's how much millionaires would save under GOP Obamacare repeal bill,news,0,36,False,True
+train2.csv,9279,Here's what Trump's budget proposes to cut,news,0,37,False,False
+train2.csv,13863,Here's what Trump's budget proposes to cut,news,0,37,False,False
+train2.csv,4807,"Holiday shipping deadlines for UPS, FedEx and major retailers",news,0,38,False,False
+train2.csv,19360,"Holiday shipping deadlines for UPS, FedEx and major retailers",news,0,38,False,False
+train2.csv,1500,How The Best Podcast Of The Year Was Made,news,0,39,False,False
+train2.csv,10895,How The Best Podcast Of The Year Was Made,news,0,39,False,False
+train2.csv,6296,I Quit Sugar For 30 Days And This Is What Happened,clickbait,1,40,False,False
+train2.csv,10449,I Quit Sugar For 30 Days And This Is What Happened,clickbait,1,40,False,False
+train2.csv,4465,"Italy plucks 2,000 migrants from the Mediterranean Sea ",news,0,41,False,False
+train2.csv,20769,"Italy Plucks 2,000 Migrants from the Mediterranean Sea",news,0,41,False,False
+train2.csv,2271,Jane Austen Has Alt-Right Fans? Heavens to Darcy! ,news,0,42,False,False
+train2.csv,11803,Jane Austen Has Alt-Right Fans? Heavens to Darcy! ,news,0,42,False,False
+train2.csv,9692,Kentucky ranked worst state for animal safety for 10th consecutive year,clickbait,1,43,False,True
+train2.csv,12496,Kentucky ranked worst state for animal safety for 10th consecutive year,news,0,43,False,True
+train2.csv,2150,Kevin Durant talks OKC return and 'fake drama' involving Russell Westbrook,news,0,44,False,False
+train2.csv,10795,Kevin Durant talks OKC return and 'fake drama' involving Russell Westbrook,news,0,44,False,False
+train2.csv,9301,LeBron James' personal barber: 'There is no dye',news,0,45,False,True
+train2.csv,10792,LeBron James' personal barber: 'There is no dye',clickbait,1,45,False,True
+train2.csv,872,Legendary Musician Chuck Berry Dead at 90,news,0,46,False,False
+train2.csv,7405,Legendary musician Chuck Berry dead at 90 ,news,0,46,False,False
+train2.csv,3550,Live coverage from ABC News [Video],news,0,47,False,False
+train2.csv,6535,Live coverage from ABC News [Video],news,0,47,False,False
+train1.csv,2418,Look At These Beautiful And Haunting Photos Of African Wildlife,1,1,48,True,True
+train2.csv,17974,Look At These Beautiful And Haunting Photos Of African Wildlife,news,0,48,True,True
+train2.csv,9003,Melissa Etheridge: ‘I’d Much Rather Have a Smoke With My Grown Kids Than a Drink’ [Video],news,0,49,False,False
+train2.csv,9580,Melissa Etheridge: ‘I’d Much Rather Have a Smoke With My Grown Kids Than a Drink’ [Video],news,0,49,False,False
+train2.csv,1355,"Men catch 15-foot-long, 144-pound python in the Florida Everglades",news,0,50,False,False
+train2.csv,5809,"Men catch 15-foot-long, 144-pound python in the Florida Everglades",news,0,50,False,False
+train2.csv,8065,NASA photo reveals a startling 300-foot-wide rift in Antarctic Ice Shelf,news,0,51,False,False
+train2.csv,8480,NASA photo reveals a startling 300-foot-wide rift in Antarctic Ice Shelf,news,0,51,False,False
+train2.csv,433,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,1116,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,1296,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,1980,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,2454,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,3114,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,3964,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,4184,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,6637,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,9182,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,9579,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,10889,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,12389,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,12586,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,12774,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,13556,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,13918,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,14209,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,14815,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,18452,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,19453,NBC NewsVerifizierter Account,news,0,52,False,True
+train2.csv,19916,NBC NewsVerifizierter Account,clickbait,1,52,False,True
+train2.csv,7416,NCAA Bracketology 2017: Real-Time Seed and Region Projections for All 68 Teams,clickbait,1,53,False,False
+train2.csv,8929,NCAA Bracketology 2017: Real-Time Seed and Region Projections for All 68 Teams,clickbait,1,53,False,False
+train2.csv,7745,"New Year’s Day Brings New Laws Regulating Phones, Guns and Soft Drinks",news,0,54,False,False
+train2.csv,19372,"New Year’s Day Brings New Laws Regulating Phones, Guns and Soft Drinks",news,0,54,False,False
+train2.csv,1762,News From Elsewhere,news,0,55,False,True
+train2.csv,3988,News From Elsewhere,news,0,55,False,True
+train2.csv,6509,News From Elsewhere,news,0,55,False,True
+train2.csv,9622,News From Elsewhere,news,0,55,False,True
+train2.csv,10266,News From Elsewhere,news,0,55,False,True
+train2.csv,11689,News From Elsewhere,clickbait,1,55,False,True
+train2.csv,12654,News From Elsewhere,news,0,55,False,True
+train2.csv,19804,News From Elsewhere,news,0,55,False,True
+train2.csv,19911,News From Elsewhere,news,0,55,False,True
+train2.csv,3156,North Dakota teen gets accepted by all 8 Ivy League schools,news,0,56,False,False
+train2.csv,17126,North Dakota teen gets accepted by all 8 Ivy League schools,news,0,56,False,False
+train2.csv,1095,North Korea Says It Tested New ‘High-Thrust’ Rocket Engine,news,0,57,False,False
+train2.csv,19077,North Korea Says It Tested New ‘High-Thrust’ Rocket Engine,news,0,57,False,False
+train2.csv,597,Pepsi Pulls Ad Accused of Trivializing Black Lives Matter ,news,0,58,False,False
+train2.csv,5767,Pepsi Pulls Ad Accused of Trivializing Black Lives Matter ,news,0,58,False,False
+train2.csv,10824,Pregnancy May Result in Long-Term Changes to a Woman's Brain - Yahoo,news,0,59,False,False
+train2.csv,12519,Pregnancy May Result in Long-Term Changes to a Woman's Brain - Yahoo,news,0,59,False,False
+train2.csv,7074,President Trump Speaks to Supporters 'Without the Filter of the Fake News'  Insider,news,0,60,False,True
+train2.csv,8244,President Trump Speaks to Supporters 'Without the Filter of the Fake News'  Insider,clickbait,1,60,False,True
+train2.csv,2451,Quiz of the week's news,clickbait,1,61,False,False
+train2.csv,13215,Quiz of the week's news,clickbait,1,61,False,False
+train2.csv,11019,Reliable SourcesVerifizierter Account,news,0,62,False,False
+train2.csv,19119,Reliable SourcesVerifizierter Account,news,0,62,False,False
+train2.csv,19378,Reliable SourcesVerifizierter Account,news,0,62,False,False
+train2.csv,10582,Renters Now Rule Half of U.S. Cities,news,0,63,False,True
+train2.csv,11545,Renters Now Rule Half of U.S. Cities,clickbait,1,63,False,True
+train2.csv,20018,Rich New Yorkers ask state to raise their taxes ,news,0,64,False,False
+train2.csv,20302,Rich New Yorkers ask state to raise their taxes ,news,0,64,False,False
+train2.csv,551,Survey: Most Americans lack savings to cover emergencies,news,0,65,False,True
+train2.csv,6650,Survey: Most Americans lack savings to cover emergencies,clickbait,1,65,False,True
+train2.csv,2822,Suspected Terrorist Attack Kills at Least 12 at Christmas Market in Berlin ,news,0,66,False,False
+train2.csv,7385,Suspected Terrorist Attack Kills at Least 12 at Christmas Market in Berlin ,news,0,66,False,False
+train2.csv,13988,"Syrian regime begins evacuating more than 30,000 'starving' people from besieged rebel-held towns under prisoner exchange deal",news,0,67,False,False
+train2.csv,14842,"Syrian regime begins evacuating more than 30,000 'starving' people from besieged rebel-held towns under prisoner exchange deal",news,0,67,False,False
+train2.csv,4931,The $65 European Airfare Is Coming to the U.S.,news,0,68,False,False
+train2.csv,10486,The $65 European Airfare Is Coming to the U.S.,news,0,68,False,False
+train2.csv,5323,The Funniest Tweets From Parents This Week,clickbait,1,69,False,False
+train2.csv,9340,The Funniest Tweets From Parents This Week,clickbait,1,69,False,False
+train2.csv,105,The Koch brothers and the Republican Party go to war — with each other,clickbait,1,70,False,True
+train2.csv,7813,The Koch brothers and the Republican Party go to war — with each other,news,0,70,False,True
+train2.csv,8328,The Koch brothers and the Republican Party go to war — with each other,news,0,70,False,True
+train2.csv,2536,The Situation RoomVerifizierter Account,news,0,71,False,False
+train2.csv,2641,The Situation RoomVerifizierter Account,news,0,71,False,False
+train2.csv,8382,The Situation RoomVerifizierter Account,news,0,71,False,False
+train2.csv,19778,The Situation RoomVerifizierter Account,news,0,71,False,False
+train2.csv,843,The world's oldest cancer case: Tumor found in the mouth of ferocious giant 'Gorgon' that roamed the Earth 255 million years,news,0,72,False,False
+train2.csv,11093,The world's oldest cancer case: Tumor found in the mouth of ferocious giant 'Gorgon' that roamed the Earth 255 million years,news,0,72,False,False
+train2.csv,3480,Trump Administration Says Iran Complying With Nuclear Deal,news,0,73,False,False
+train2.csv,6835,Trump administration says Iran complying with nuclear deal ,news,0,73,False,False
+train2.csv,4896,Trump attacks China in Twitter outburst,news,0,74,False,False
+train2.csv,5083,Trump attacks China in Twitter outburst,news,0,74,False,False
+train2.csv,6405,"Trump says ""someone should look into who paid for"" tax return rallies",news,0,75,False,False
+train2.csv,13577,"Trump says ""someone should look into who paid for"" tax return rallies",news,0,75,False,False
+train2.csv,5376,Two-Thirds of Americans Aren’t Putting Money in Their 401(k),clickbait,1,76,False,True
+train2.csv,19485,Two-Thirds of Americans Aren’t Putting Money in Their 401(k),news,0,76,False,True
+train2.csv,2513,U.K. Said to Favor Voluntary Action to Control Utility Bills,news,0,77,False,False
+train2.csv,20456,U.K. Said to Favor Voluntary Action to Control Utility Bills,news,0,77,False,False
+train2.csv,5698,Watch Live: Florida Bald Eagles Await Hatching of Final Egg,news,0,78,False,False
+train2.csv,8812,Watch Live: Florida Bald Eagles Await Hatching of Final Egg,news,0,78,False,False
+train2.csv,4000,What happens if you don't file your tax return?,clickbait,1,79,False,False
+train2.csv,18768,What happens if you don't file your tax return?,clickbait,1,79,False,False
+train2.csv,2527,What will change for your finances in 2017,news,0,80,False,True
+train2.csv,3496,What will change for your finances in 2017,clickbait,1,80,False,True
+train2.csv,19390,What will change for your finances in 2017,news,0,80,False,True
+train2.csv,832,When And How You Should Ask For A Raise: The Dos And Don'ts,clickbait,1,81,False,False
+train2.csv,6555,When And How You Should Ask For A Raise: The Dos And Don'ts,clickbait,1,81,False,False
+train2.csv,2483,Who Should Win Album Of The Year at the 2017 Grammys? Vote!,news,0,82,False,True
+train2.csv,3842,Who Should Win Album Of The Year at the 2017 Grammys? Vote!,clickbait,1,82,False,True
+train2.csv,409,Why Fox stock is immune to Bill O'Reilly scandal,news,0,83,False,True
+train2.csv,11460,Why Fox stock is immune to Bill O'Reilly scandal,clickbait,1,83,False,True
+train2.csv,14157,Why Republican candidates should want to be shut out of debates,news,0,84,False,True
+train2.csv,19526,Why Republican candidates should want to be shut out of debates,clickbait,1,84,False,True
+train1.csv,21630,World's tallest geyser erupts,0,0,85,False,False
+train1.csv,29908,World's Tallest Geyser Erupts,0,0,85,False,False
+train2.csv,9647,Yale University Group Seeks to Allow Women into All-Male Fraternities  Insider,news,0,86,False,False
+train2.csv,12943,Yale University Group Seeks to Allow Women into All-Male Fraternities  Insider,news,0,86,False,False
+train2.csv,5106,‘Greatest threat to democracy’: Commander of bin Laden raid slams Trump’s anti-media sentiment,news,0,87,False,False
+train2.csv,8956,‘Greatest threat to democracy’: Commander of bin Laden raid slams Trump’s anti-media sentiment,news,0,87,False,False
