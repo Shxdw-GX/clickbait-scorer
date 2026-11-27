@@ -1,0 +1,41 @@
+DATA CLEANING AND ANALYSIS - MOHAMMED ALKHYAT
+
+DATA CLEANING
+- Combined train1.csv and train2.csv.
+- Standardized column names and binary labels.
+- Checked for missing values and invalid labels.
+- Removed unnecessary whitespace.
+- Preserved capitalization and punctuation.
+- Removed duplicate headlines.
+- Removed headlines with conflicting labels because their correct labels could not be verified.
+
+CLEANING RESULTS
+Original headlines: 53,029
+Invalid rows removed: 0
+Conflicting headline groups: 25
+Conflicting rows removed: 103
+Duplicate rows removed: 67
+Total rows removed: 170
+Final headlines: 52,859
+
+DATA ANALYSIS
+Non-clickbait: 32,620 (61.71%)
+Clickbait: 20,239 (38.29%)
+
+DATASET SPLITTING
+Training: 42,287 (80%)
+Validation: 5,286 (10%)
+Testing: 5,286 (10%)
+
+Stratified splitting was used to preserve the class distribution. A random seed of 42 was used for reproducibility.
+
+VALIDATION
+All validation checks passed.
+No missing values or invalid labels.
+No normalized duplicate headlines across dataset splits.
+
+LIMITATIONS
+Unusually long headlines were retained because their validity has not been manually confirmed. Similar headlines with different wording may still exist.
+
+HANDOFF
+Both the baseline and BERT models should use the same training, validation, and testing files located in data/clean/.
