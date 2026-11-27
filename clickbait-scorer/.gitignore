@@ -8,7 +8,6 @@ venv/
 
 # big data and saved models
 data/raw/*
-data/clean/*
 models/
 *.pt
 *.bin
@@ -16,4 +15,3 @@ models/
 
 # keep the empty folders
 !data/raw/.gitkeep
-!data/clean/.gitkeep
